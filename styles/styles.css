@@ -4,9 +4,10 @@
 }
 
 body{
-    background: linear-gradient(to right, #000000, #585858, #000000) !important;
-    background-image: url("./shared image.png")
-
+/*     background: linear-gradient(to right, #000000, #585858, #000000) !important; */
+    background-image: url("./shared image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .add__new__btn__mobile__only{
